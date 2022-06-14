@@ -10,6 +10,7 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class NewUserActivity extends AppCompatActivity {
+ // adiciona campos para coleta de dados
  
  private EditText userNameEdt, courseDescEdt, estiloCursoEdt;
  private Button userBtn;
