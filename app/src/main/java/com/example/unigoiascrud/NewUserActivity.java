@@ -10,7 +10,6 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class NewUserActivity extends AppCompatActivity {
- //criando campos para receber as informações
  
  private EditText userNameEdt, courseDescEdt, estiloCursoEdt;
  private Button userBtn;
