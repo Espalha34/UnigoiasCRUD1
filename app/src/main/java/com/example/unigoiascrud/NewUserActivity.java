@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class NewUserActivity extends AppCompatActivity {
  // adiciona campos para coleta de dados
- 
+ // teste 2
  private EditText userNameEdt, courseDescEdt, estiloCursoEdt;
  private Button userBtn;
  public static final String EXTRA_ID =
